@@ -1,7 +1,7 @@
 # Restaurant-Page
 
 Live Demo:  
-https://leo-tsant.github.io/Restaurant-Page/
+https://leo-tsant.github.io/restaurant-page/
 
 ![Project Screenshot](./src/images/restaurant-page.png)
 
